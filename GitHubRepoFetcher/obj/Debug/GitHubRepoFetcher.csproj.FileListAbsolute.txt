@@ -1,0 +1,7 @@
+C:\Users\vamsy\Desktop\.NET\GitHubRepoFetcher\GitHubRepoFetcher\bin\Debug\GitHubRepoFetcher.exe.config
+C:\Users\vamsy\Desktop\.NET\GitHubRepoFetcher\GitHubRepoFetcher\bin\Debug\GitHubRepoFetcher.exe
+C:\Users\vamsy\Desktop\.NET\GitHubRepoFetcher\GitHubRepoFetcher\bin\Debug\GitHubRepoFetcher.pdb
+C:\Users\vamsy\Desktop\.NET\GitHubRepoFetcher\GitHubRepoFetcher\obj\Debug\GitHubRepoFetcher.csproj.AssemblyReference.cache
+C:\Users\vamsy\Desktop\.NET\GitHubRepoFetcher\GitHubRepoFetcher\obj\Debug\GitHubRepoFetcher.csproj.CoreCompileInputs.cache
+C:\Users\vamsy\Desktop\.NET\GitHubRepoFetcher\GitHubRepoFetcher\obj\Debug\GitHubRepoFetcher.exe
+C:\Users\vamsy\Desktop\.NET\GitHubRepoFetcher\GitHubRepoFetcher\obj\Debug\GitHubRepoFetcher.pdb
